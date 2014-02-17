@@ -16,4 +16,4 @@ telnet localhost 9999
 
 6. Telnet session can be closed by entering character q
 
-(repeat stepa 2-6 as many times you wish)
+(Repeat steps 2-6 as many times you wish)
